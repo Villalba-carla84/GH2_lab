@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-cout << " hola mundo" ;
-cout << "segundo commit ";
+cout << " hola mundo" << endl;
+cout << "segundo commit "<< endl;
+cout << "tercer commit"<< endl;
 return 0;
 }
