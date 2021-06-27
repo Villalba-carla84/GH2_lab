@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Carla\\Documents\\segundo año\\algoritmo 2\\git\\GH2 lab",
+      "environment": [],
+      "program": "c:\\Users\\Carla\\Documents\\segundo año\\algoritmo 2\\git\\GH2 lab\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
